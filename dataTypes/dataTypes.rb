@@ -130,5 +130,4 @@ my_hash.select { |key, value| key.include?("G") }
 puts 3.class
 puts [1,2,3].class
 
-
 # --------------------------------------------------
